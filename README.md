@@ -1,6 +1,11 @@
 # Curso-Asincronismo-Js-Platzi
 
-https://bartoligerman497.github.io/Asynchronism-Js/Proyecto%20Asincronismo/src/Async%20Landing/
+## Enlaces
+
+- [Sitio publicado en GitHub Pages](https://germanbartoli.github.io/Asynchronism-Js/Proyecto%20Asincronismo/src/Async%20Landing/)
+- [Repositorio en GitHub](https://github.com/GermanBartoli/Asynchronism-Js)
+
+https://germanbartoli.github.io/Asynchronism-Js/Proyecto%20Asincronismo/src/Async%20Landing/
 
 https://github.com/platzi/curso-asincronismo-js
 
